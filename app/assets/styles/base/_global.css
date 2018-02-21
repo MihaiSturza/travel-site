@@ -11,3 +11,7 @@ img {
 * {
 	box-sizing: border-box; /* this means we want to select every single element on the page*/
 }
+
+a {
+	color: $mainOrange;
+}
