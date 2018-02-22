@@ -30,4 +30,4 @@ gulp.task('cssInject', ['styles'], function() {
     .pipe(browserSync.stream());
 });*/
 
-//I chose not to use browserSync for for now us brackets has a browsersync included - realtime preview. Note that browserSync is a valuable tool also for cross browser compatibility testing, also while running it is bash we can take the adress and place it in a mobile device to view the webpage
+//I chose not to use browserSync for now as brackets has a browsersync included - realtime preview. Note that browserSync is a valuable tool also for cross browser compatibility testing, also while running it with bash we can take the adress and place it in a mobile device to view the webpage
