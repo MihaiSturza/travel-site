@@ -24,7 +24,7 @@ class RevealOnScroll {
 				},
 				offset: that.offsetPercentage
 			});
-		});
+		}); 
 	}
 }
 
