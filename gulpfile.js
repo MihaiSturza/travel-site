@@ -2,3 +2,4 @@ require('./gulp/tasks/styles'); /*the require function will not require to put .
 require('./gulp/tasks/watch');
 require('./gulp/tasks/sprite'); 
 require('./gulp/tasks/scripts');
+require('./gulp/tasks/modernizr');
